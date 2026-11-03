@@ -85,7 +85,7 @@ The demonstration replaces missing numeric metrics with zero. In real reporting,
 - Use public datasets or synthetic exports. Do not scrape or publish private account data, personal identifiers, access tokens or confidential campaign information.
 
 ## Author
-Mohd Tariq Ali Khan
-Invertis University
-B-tech (Artificial Intelligence)
-Sec - B
+- Mohd Tariq Ali Khan
+- Invertis University
+- B-tech (Artificial Intelligence)
+- Sec - B
