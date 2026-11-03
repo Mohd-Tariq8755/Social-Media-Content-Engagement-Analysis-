@@ -2,7 +2,7 @@
 
 ![Project Banner](images/project_banner.png)
 
-**Course:** DA-020 Digital Marketing  
+**Course:** DA-020 Artificial Intelligence 
 **Tools:** Python · Jupyter Notebook / Google Colab · Pandas · Matplotlib · CSV
 
 ## Project Overview
